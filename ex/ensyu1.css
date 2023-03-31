@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  color:#6c6b6b;
+}
+.position{
+  position: absolute;
+  right:40px;
+  top: 100px
+}
+
+.position i{
+  /*width:320px;*/
+  /*height:320px;*/
+  font-size: 32px;
+}
